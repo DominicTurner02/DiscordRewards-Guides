@@ -2,8 +2,8 @@
 
 
 ## Editing your RocketMod RCON Settings
-- Firstly, find your `Rocket.config.xml` file.
-- Then, find the RCON section, it should look like this:
+- Firstly, find your `Rocket.config.xml` file, it should be located at `Unturned\Servers\ServerName\Rocket\`
+- Then, find the **RCON** section, it should look like this:
 ```
 <RCON Enabled="true" Port="27115" Password="changeme" EnableMaxGlobalConnections="true" MaxGlobalConnections="10" EnableMaxLocalConnections="true" MaxLocalConnections="10" />
 ```
