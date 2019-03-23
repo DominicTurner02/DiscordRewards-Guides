@@ -1,7 +1,7 @@
 # Discord Rewards Guide
 
+##Editing your RocketMod RCON Settings (See below for the BOT Guide)
 
-## Editing your RocketMod RCON Settings
 - Firstly, find your `Rocket.config.xml` file, it should be located at `Unturned\Servers\ServerName\Rocket\`
 - Then, find the **RCON** section, it should look like this:
 ```
@@ -13,4 +13,8 @@
 - Set both `EnableMaxGlobalConnections` & `EnableMaxLocalConnections` to `True`.
 - Set both `MaxGlobalConnections` & `MaxLocalConnections` to `9999`.
 - Once you have done this, simply save the file and restart your Server.
+
+
+##BOT Guide
+
 
