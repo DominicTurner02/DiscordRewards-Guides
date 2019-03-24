@@ -17,7 +17,7 @@
 
 ## BOT Guide
 
-- Firstly, add the BOT to your Server.
+- Firstly, add the BOT to your Server, get the LINK in the ImperialPlugins Product Page.
 - Once added, go in-game and execute the `/validate` command.
 - Then, in Discord do `!validate [License Key]` and it will validate you. **You MUST have the `View Audit Log` permission to use `!validate`**
 - Users, after getting a code in-game, can now do `!validate [5-digit-code]`!
