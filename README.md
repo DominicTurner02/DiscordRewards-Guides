@@ -1,6 +1,6 @@
 # Discord Rewards Guide
 
-##Editing your RocketMod RCON Settings (See below for the BOT Guide)
+## Editing your RocketMod RCON Settings (See below for the BOT Guide)
 
 - Firstly, find your `Rocket.config.xml` file, it should be located at `Unturned\Servers\ServerName\Rocket\`
 - Then, find the **RCON** section, it should look like this:
@@ -15,6 +15,9 @@
 - Once you have done this, simply save the file and restart your Server.
 
 
-##BOT Guide
+## BOT Guide
 
-
+- Firstly, add the BOT to your Server.
+- Once added, go in-game and execute the `/validate` command.
+- Then, in Discord do `!validate [License Key]` and it will validate you. **You MUST have the `View Audit Log` permission to use `!validate`**
+- Users, after getting a code in-game, can now do `!validate [5-digit-code]`!
